@@ -2,8 +2,8 @@
 ## Meu perfil
 
 - 👋 Olá, eu sou a **@ProfDaniela**, professora da disciplina de **Pensamento Computacional**
-- 👀 Eu estou interessada em aprender sobre códigos de programação
-- 👍 Tenho conhecimento de programação _Scratch_ e _JavaScript_
+- 😊 Eu estou interessada em aprender sobre códigos de programação
+- 🌿 Tenho conhecimento de programação _Scratch_ e _JavaScript_
 
 
 <!---
